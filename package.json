@@ -1,0 +1,11 @@
+{
+  "name": "micro-frontends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run -r --parallel dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
